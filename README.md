@@ -8,3 +8,5 @@ Take Cluely, recently backed by a16z for $15M. A leak exposed their app as just 
 
 [Click Here to See Post](https://www.linkedin.com/posts/davidpstout_many-defend-the-your-startup-is-just-a-gpt-activity-7342369390631219201-pUfF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQCkOUBNA-E4AXpsYEvBxIlzGaGNCumDt4)
 
+---
+![image](https://github.com/user-attachments/assets/03ccc20a-dff5-4a67-83c4-e91571d2b1d9)
