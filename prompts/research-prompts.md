@@ -1,0 +1,3 @@
+Please read and analyze the following research paper. Summarize the paper's key points, including the main research question, hypothesis, methodology, results, and conclusions. Provide a brief summary of each section of the paper and any significant findings. Additionally, identify any strengths or weaknesses in the study, potential areas for future research, and any important limitations discussed. If applicable, mention any related research or theories referenced in the paper.
+
+Once you've summarized the paper, please provide a list of key terms or concepts introduced in the paper, along with brief definitions or explanations for each. Finally, conclude with a critique of the overall paper, assessing its contribution to the field and its relevance.
