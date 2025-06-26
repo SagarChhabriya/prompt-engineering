@@ -6,4 +6,8 @@ Once you've summarized the paper, please provide a list of key terms or concepts
 
 ### 2. Prompt to Paraphrase the Summary
 
+#### 2.1
 Take the following output and rephrase it to make it sound like it was written by a human. The goal is to make it sound natural, conversational, and not overly formal or mechanical. Use varied sentence structures, and avoid sounding too repetitive or robotic. Ensure that the key points are still there, but make it flow more like a human-written summary or analysis. Focus on clarity and readability, as if someone were explaining it to a peer or a colleague in simple terms.
+
+#### 2.2
+Please take the following summary and rewrite it to make it sound more natural and human-like. The summary should maintain the original content but be expressed in a more polished and engaging way. Avoid overly robotic or technical language. The goal is for the summary to feel like something a student or researcher would write for a paper submission—clear, professional, and easy to read. Use varied sentence structures and smooth transitions between ideas to make the text flow naturally.
