@@ -1,5 +1,14 @@
 # Prompt-Engineering
 
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/324ff282-0bb2-4c4b-8721-5e76c65b5736" />
+
+
+
+
+
+
+
+
 Many defend the "your startup is just a GPT wrapper" critique by arguing everything is a wrapper, since most companies build on foundational tech. This misses the point. A "GPT wrapper" implies a business relies entirely on system prompts, lacking a defensible moat. 
 
 Take Cluely, recently backed by a16z for $15M. A leak exposed their app as just system prompts, undermining their defensibility. If they had built proprietary tech or innovative systems, a breach wouldn’t unravel their business. True innovation creates a moat beyond prompts.
