@@ -11,3 +11,17 @@ Take the following output and rephrase it to make it sound like it was written b
 
 #### 2.2
 Please take the following summary and rewrite it to make it sound more natural and human-like. The summary should maintain the original content but be expressed in a more polished and engaging way. Avoid overly robotic or technical language. The goal is for the summary to feel like something a student or researcher would write for a paper submission—clear, professional, and easy to read. Use varied sentence structures and smooth transitions between ideas to make the text flow naturally.
+
+
+
+### 3. Methodology
+
+You are a senior researcher tasked with drafting the **Methodology** section for a scientific paper. Your tone must be formal, precise, and objective.
+
+Using the experimental work provided in this notebook, write a comprehensive Methodology section that includes the following subsections:
+
+1.  **Experimental Setup:** Describe the materials, equipment, and data sources used.
+2.  **Procedure:** Detail the step-by-step process of the experiments, including any protocols followed.
+3.  **Evaluation Metrics:** Specify the quantitative measures and statistical methods used to assess the results.
+
+Synthesize the notebook's content into a coherent narrative. Use passive voice where appropriate (e.g., "The system was calibrated...") and employ domain-specific terminology. Do not invent details not present in the notebook.
